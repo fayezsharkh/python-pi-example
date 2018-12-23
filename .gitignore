@@ -1,3 +1,7 @@
+.gitignore/
+.idea/
+venv/
+.gitignore/*
 .idea/*
 venv/bin
 venv/include
